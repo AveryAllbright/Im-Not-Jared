@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/JaredHouse.unity
   isLoaded: 1
   isActive: 1
